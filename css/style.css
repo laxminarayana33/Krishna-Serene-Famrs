@@ -75,6 +75,7 @@ a, a:hover, a:focus{
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
 	font-family: 'Source Sans Pro', sans-serif;
 	margin: 0;
+	color: #2f8c46;
 }
 ul{
 	margin: 0;
@@ -107,7 +108,7 @@ ul{
 }
 .clv_heading h3{
 	font-size: 40px;
-	color: #fec007;
+	color: #5f432f;
 	font-weight: 700;
 	text-transform: capitalize;
 }
@@ -669,7 +670,7 @@ ul{
 .index_v1 .clv_rev_slider .erinyen.tparrows:before{
 	font-size: 22px;
 	line-height: 55px;
-	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
+	transition: all 0.6s ease-in-out;-webkit-transition: all 0.6s ease-in-out;-moz-transition: all 0.6s ease-in-out;
 }
 .index_v1 .clv_rev_slider .erinyen.tparrows:hover:before{
 	color: #fec007;
@@ -839,7 +840,7 @@ ul{
 .clv_about_wrapper .about_content .about_heading h2{
 	font-size: 42px;
 	font-weight: 500;
-	color: #000000;
+	color: #5f432f;
 	text-transform: capitalize;
 	margin-bottom: 5px;
 }
@@ -850,7 +851,7 @@ ul{
 .clv_about_wrapper .about_content .about_heading h6{
 	font-size: 18px;
 	font-weight: 500;
-	color: #000000;
+	color: #439d4f;
 	text-transform: capitalize;
 }
 .clv_about_wrapper .about_content .about_heading .clv_underline{
@@ -4308,7 +4309,7 @@ ul{
 	font-size: 42px;
 	font-weight: 600;
 	line-height: 52px;
-	color: #222222;
+	color: #5f432f;
 	text-transform: capitalize;
 	margin-bottom: 10px;
 }
@@ -4320,7 +4321,7 @@ ul{
 	margin-bottom: 7px;
 }
 .garden_about_wrapper .garden_about_section .garden_about_content p{
-	color: #333333;
+	color:#49a152;
 	margin: 0;
 }
 .garden_about_content .garden_about_blog{
@@ -4400,7 +4401,7 @@ ul{
 	margin-bottom: 25px;
 	position: relative;
 	text-transform: capitalize;
-	color: #222222;
+	color: #5f432f;
 }
 .service_about_content h1:before, .service_about_content h1:after {
 	content: "";
@@ -4419,7 +4420,7 @@ ul{
 	font-weight: 400;
 }
 .service_about_content > p{
-	color: #333333;
+	color: #49a152;
 	margin-bottom: 6px;
 }
 .service_about_content h5{
@@ -6882,7 +6883,7 @@ ul{
 }
 .breadcrumb_wrapper_event{
 	position: relative;
-	background: url('../images/event3.jpg') no-repeat center;
+	background: url('../images/event10.jpg') no-repeat center;
 	background-size: cover;
 	padding: 250px 0px 100px;
 	z-index: 100;
@@ -6922,7 +6923,7 @@ ul{
 	bottom: -25px;
 	transform: translateX(-50%);
 	padding: 14px 20px;
-    background-color: #fec007;
+    background-color: #5f432f;
     border-radius: 30px;
 	z-index: 1;
 }
@@ -9725,6 +9726,7 @@ ul{
 	}
 	.clv_about_wrapper .about_content{
 		padding: 0;
+		color: #439d4f;
 	}
 	.clv_section {
 		padding: 100px 0px;
@@ -9957,6 +9959,7 @@ ul{
 	.garden_about_wrapper .garden_about_section .garden_about_content h2{
 		font-size: 32px;
 		line-height: 42px;
+		color: #5f432f;
 	}
 	.garden_about_blog .about_blog_inner h4{
 		font-size: 20px;
@@ -9974,6 +9977,7 @@ ul{
 	.service_about_content h1{
 		font-size: 32px;
 		line-height: 42px;
+		color: #5f432f;
 	}
 	.garden_service_about_wrapper .service_about_content{
 		margin: 0;

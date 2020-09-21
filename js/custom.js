@@ -90,7 +90,7 @@ Assigned to: Theme Forest
         },
         BannerSlider: function() {
 			var swiper = new Swiper('.clv_banner_slider .swiper-container', {
-				speed: 1500,
+				speed: 4000,
 				loop: true,
 				effect: 'coverflow',
 				coverflowEffect: {
@@ -99,7 +99,7 @@ Assigned to: Theme Forest
 					depth: 0,
 				},
 				autoplay: {
-					delay: 2500,
+					delay: 4000,
 					disableOnInteraction: false,
 				},
 				navigation: {
